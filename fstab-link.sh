@@ -1,1 +1,3 @@
-genfstab /mnt && genfstab /mnt > /mnt/etc/fstab
+genfstab /mnt 
+
+genfstab /mnt > /mnt/etc/fstab
