@@ -13,7 +13,7 @@ echo "Hafizdkren" >> /etc/hostname
 
 ## root and user passwd manually
 
-useradd -m -G wheel -s /bin/zsh hafizdkren
+# useradd -m -G wheel -s /bin/zsh hafizdkren
 
 ## setup sudo manually
 
