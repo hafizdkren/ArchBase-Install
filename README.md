@@ -8,10 +8,10 @@ Step 3 : Mounting the drive "It would mounting basic 3 directory (Boot, System, 
 
 Step 4 : Installation using Pacstrap
 
-Step 5 (Optional) : Mounting Game Drive to setup directory
+Step 5 : Post-Installation with Arch-Chroot
 
-Step 6 : Linking Fstab
+Step 6 (Optional) : Mounting Game Drive to setup directory
 
-Step 7 : Post-Installation with Arch-Chroot
+Step 7 : Linking Fstab
 
 ## Reboot after this
